@@ -1,17 +1,12 @@
 # 👀
+
 <kbd style="display: flex;">
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Sikora&layout=compact&bg_color=010410&title_color=C9D1D9&text_color=C9D1D9&hide_border=true" />
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=K-Sikora&hide=contribs,rank,issues,prs,stars&hide_rank=true&hide_title=true&bg_color=010410&text_color=C9D1D9&hide_border=true" />
 
 </kbd>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <h1>Technologies</h1>
-
-
-
 
 <h3>Front-End</h3>
 <kbd style="display: flex; flex-direction: row;">
@@ -51,5 +46,3 @@
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
 </kbd>
-
-
