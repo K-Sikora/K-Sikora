@@ -4,8 +4,10 @@
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=K-Sikora&hide=contribs,rank,issues,prs,stars&hide_rank=true&hide_title=true&bg_color=010410&text_color=C9D1D9&hide_border=true" />
 
 </kbd>
-  <!--START_SECTION:waka-->
+
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 <h1>Technologies</h1>
 
 
