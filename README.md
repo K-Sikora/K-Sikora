@@ -52,8 +52,13 @@
   </details>
 
 
+<details>
+  
+<summary> 
 <h1>Statistics</h1>
-<kbd style="display: flex;">
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Sikora&layout=compact&bg_color=010410&title_color=C9D1D9&text_color=C9D1D9&hide_border=true" />
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=K-Sikora&hide=contribs,rank,issues,prs,stars&hide_rank=true&hide_title=true&bg_color=010410&text_color=C9D1D9&hide_border=true" />
-</kbd>
+</summary>
+<div style="display:flex;">
+<img width="80%" src="https://wakatime.com/share/@b0b2dae5-d4fb-4177-8f94-4da670a7f67b/c21e2b1b-f719-4815-9802-059c889dbbbc.svg" />
+  <img width="80%" src="https://wakatime.com/share/@b0b2dae5-d4fb-4177-8f94-4da670a7f67b/607c29a4-84d2-463e-a04c-cd2d2741b860.svg" />
+</div>
+</details>
