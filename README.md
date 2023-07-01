@@ -1,4 +1,12 @@
 
+  
+
+# 👋🏻
+
+<div style="display:flex;">
+<img width="85%" src="https://wakatime.com/share/@b0b2dae5-d4fb-4177-8f94-4da670a7f67b/4bbe76df-fbc3-4a5a-a060-7f830f828021.svg" />
+</div>
+
 
 <h1>Technologies</h1>
 <details>
@@ -52,13 +60,4 @@
   </details>
 
 
-<details>
-  
-<summary> 
-<h1>Statistics</h1>
-</summary>
-<div style="display:flex;">
-<img width="100%" src="https://wakatime.com/share/@b0b2dae5-d4fb-4177-8f94-4da670a7f67b/4bbe76df-fbc3-4a5a-a060-7f830f828021.svg" />
-  <img width="100%" src="https://wakatime.com/share/@b0b2dae5-d4fb-4177-8f94-4da670a7f67b/00004358-463f-4377-a9d4-6f5b15577636.svg" />
-</div>
-</details>
+
