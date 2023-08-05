@@ -4,7 +4,7 @@
 # 👋🏻
 
 <div style="display:flex;">
-<img width="85%" src="https://wakatime.com/share/@b0b2dae5-d4fb-4177-8f94-4da670a7f67b/4bbe76df-fbc3-4a5a-a060-7f830f828021.svg" />
+<img width="90%" src="https://wakatime.com/share/@b0b2dae5-d4fb-4177-8f94-4da670a7f67b/2b208d8b-93b9-4960-a541-e6c3f1cdaa42.svg" />
 </div>
 
 
