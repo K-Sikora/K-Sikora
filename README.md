@@ -3,9 +3,6 @@
 
 # 👋🏻
 
-<div style="display:flex;">
-<img width="90%" src="https://wakatime.com/share/@b0b2dae5-d4fb-4177-8f94-4da670a7f67b/2b208d8b-93b9-4960-a541-e6c3f1cdaa42.svg" />
-</div>
 
 
 <h1>Technologies</h1>
